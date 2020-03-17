@@ -270,7 +270,8 @@ If you befriended everyone you stomp your depression and find yourself waking up
 
 * Passive: It wasn’t hard [smirks]
   * Mr. Choi is literally too cool for all of us plebs and our pleb attacks. Reduces all damage received by 15%.
-  * Reward: Blessing of humility - Receive a 10% damage reduction for all attacks?
+* Reward: Blessing of humility
+  * Receive a 10% damage reduction for all attacks?
 
 <a name="shim"></a>
 
@@ -279,7 +280,8 @@ If you befriended everyone you stomp your depression and find yourself waking up
 * Passive: Ooh, what’s that?
   * Better hide your food from Mr. Shim, cause he’ll want his share! Or you could be like Sarah and bribe him with bougie KitKat and baked goods ;). Consumes a random ability or consumable item for each turn.
   * Spani*Sh im*quisition. I don't know yet
-* Reward: Blessing of temperance - The later the ability is used, the higher the damage.
+* Reward: Blessing of temperance
+  * The later the ability is used, the higher the damage.
 
 <a name="cimetta"></a>
 
