@@ -247,7 +247,7 @@ If you befriended everyone you stomp your depression and find yourself waking up
   * [TLAP](#tlap): Weakens Leung
   * “Nothing”: Raises physics stats
 
-<a name="keving"></a>
+<a name="kevin"></a>
 
 #### Kevin
 
@@ -647,3 +647,268 @@ Here is a list of all items in the game sorted in alphabetical order. Click on t
 <a name="abilities"></a>
 
 ## Abilities
+
+### English Abilities
+
+#### Dramatization
+
+A “reliable” mark booster after a disastrous in class essay.
+
+* Damage: 100
+* PP: 12
+
+#### Constructive criticism
+
+Bro, what’s up with your essay? The grammar is atrocious, the logic is flimsy and you’re not even answering the prompt.
+
+* Increases English attacks by 25%
+
+#### Shakespearean roasting
+
+ It’s ok if you swear in class as long as it’s clever. With the power of Shakespearean roasting you can curse as freely as you want.
+
+* Damage: 40
+* PP: 20
+
+#### Journal reflections
+
+You always get free marks for this. Even in John’s class.
+
+* Restores HP by 20%.
+* PP: 10
+
+#### Cimetta’s roasts
+
+How do you even manage to not answer the prompt? Or not be specific? Or not have any arguments?
+
+* Damage: 150
+* PP: 5
+* Only usable by [Cimetta](#cimetta)
+
+#### In-class essay
+
+The bane of my English mark. Or frankly most people’s English marks.
+
+* Damage: 150
+* PP: 5
+* Cannot use if your English stat is low
+
+#### ISU
+
+ I swear to god. If I have to write another 1600 word essay I will go kill a man.
+
+* Damage: 180
+* PP: 1
+* 30% chance to hurt yourself, reducing 10% of your HP unless your English stat is high.
+
+### Math Abilities
+
+#### Graph and Pray
+
+You just saw sin(X)/log(x) and you have no memory of how to do it. Quick, draw something!
+
+* Damage: 40
+* PP: 20
+
+#### Sandwich Theorem
+
+Who needs limits? Who needs derivatives? Just sandwich everything lol.
+
+* Damage: 90
+* PP: 12
+
+#### Thinking Section
+
+You’ve probably never seen this stuff before but it’s “easy”.
+
+* Damage: 90-180 (depends on your math stats)
+* PP: 5
+* If your math stats are not high enough, you deal damage to yourself
+
+#### Ti-84 CE Plus
+
+Don’t lie to yourself, you know it’s a crutch to you right now
+
+* Increases math attack damage by 15%.
+* Ineffective when facing Shim.
+
+#### Calculate Mark
+
+omgomgomgomgomgomgomgomg HOW MUCH IS MY MARK GONNA DROP?
+
+* Damage: 40
+* PP: 20
+* 40% chance to deal damage to self, reducing PP by 1 on another move at hand
+
+#### Past Tests
+
+Yo, can you sauce me last year’s trig test?
+
+* Reduces math damage by 20%.
+* 20% chance buff fails
+
+#### Trig Identities
+
+Lets see, sin(2x)=2sinxcosx, cos2x=2cos2x-1 or cos2x-sin2x or… crap what was it again?
+
+* Damage: 120
+* PP:10
+
+#### Mark Tests
+
+Dude what the ...? How’s our final exam mark up now? We literally did it last period?
+
+* Damage: 150
+* PP: 5
+* Only usable by [Choi](#choi)
+
+#### Graph the Equation
+
+Omg, 12 free marks? Sign me up!
+
+* Damage: 150
+* PP: 5
+
+#### Change Questions
+
+So I changed around the given and what you wanted to get and suddenly half the class doesn’t know what to do.
+
+* Damage: 150
+* PP: 5
+* Only usable by [Choi](#choi) and [Shim](#shim).
+
+#### Life Lesson
+
+Look my young Padawans, you should worry about the learning and let the marks take care of themselves.
+
+* Damage: 100
+* PP: 10
+* Only usable by [Shim](#shim)
+
+### Physics Abilities
+
+#### Charge/Electric Shock
+
+All you need is a chair and a victim!
+
+* Damage: 40+120 per charge
+* PP: 10
+* Use on yourself to charge up
+
+#### Not Physics
+
+Who does physics in physics? I have to study for the bio and chem tests later today! Oh and also the math test tomorrow.
+
+* All physics type moves become one of either math, biology or chemistry.
+* Makes [Leung](#leung) even angrier, causing her to deal 2.5x damage
+
+#### Play with Equipment
+
+All of them make handy weapons, didn’t you notice?
+
+* Damage: 90
+* PP: 15
+
+#### Physics Test
+
+Damn! My mark went down by 5% again!
+
+* Damage: 120
+* PP: 10
+* Only usable by [Leung](#leung)
+* only deals 60 damage to [Jerry](#jerry)
+
+#### Feynman Joke
+
+Physics is like sex. Sure it gives practical results, but that’s not why we do it.
+
+* Damage: 100
+* PP: 12
+* Damage increases by 15% when used by [Aryan](#aryan) or [Allen](#allen)
+
+#### Fond Memories of Gissing
+
+“Dude, the U class has a median of 96”.
+
+* Recovers team health by 10%.
+
+#### Rotating Fields
+
+The worst two nightmares of an AP physics student combined together. Does it actually work in reality? We’re in purgatory, who cares!
+
+* Damage: 150
+* PP: 5
+* Cannot use unless physics stats are high
+
+### Chemistry Abilities
+
+#### Stoichiometry
+
+It’s easy. It’s just math. Somehow it was my worst unit.
+
+* Damage: Based on chem stat
+* PP: 15
+
+#### Titration
+
+dOn'T fOrGeT tO pUt YoUr inDiCAtOr!
+
+* Damage: 150
+* PP: 5
+
+#### Splash Acid
+
+Oh dear I have acid everywhere! Ivy’s coursepack has a burning hole!
+
+* Damage: 120
+* PP: 10 
+* Ineffective when used against Spatafora. When used by Spatafora, damage increases by 10%.
+
+#### Spill Salt
+
+Oh I spilled salt everywhere. Lemme clean it up.
+
+* Damage: 40
+* PP: 20
+* Ineffective against [Sarah](#sarah)
+
+#### Orgo Names
+
+So you’re supposed to number the carbons in the longest chain, and then look at the branches, and then put the branches as the prefix in the right position and the parent chain as the suffix. But then you have other functional groups that have different priorities, and double bonds have E and Z, and chirality is a thing, and...
+
+* Damage: 180
+* PP: 1
+
+#### Taste Eest
+
+Hmm, I wonder what this is?
+
+* Increases chem attack damage by 15%
+* Reduces HP by 10%
+* Ineffective against [Sarah](#sarah)
+
+#### The Model is Wrong!
+
+Forget everything you’ve learnt in grade 9, 10 or 11. It’s all wrong!
+
+* Reduces enemy attacks by 15%
+* Ineffective against [Kostanenko](#mrsk) and [Spatafora](#spat)
+
+#### Return Textbook
+
+If you return the textbook on exam day, you will receive one bonus mark!
+
+* Recovers HP by 5%
+* Recovers PP by 1
+
+#### Bonus Question
+
+It’s supposed to give you free marks, but all it does is give me anxiety.
+
+* Damage: 130
+* PP: 8
+* Only usable by [Spatafora](#spat) or [Kostanenko](#mrsk)
+
+### Biology Abilities
+
+#### 40 Phylums
