@@ -7,17 +7,18 @@ This is the design documentation for the game. If you have general things to add
   1. [Plot](#plot)
   2. [Setting](#setting)
   3. [Characters](#characters)
-     * [List of All Characters](#all)
      * [Protagonist](#prot)
      * [Friendly NPCs](#friendly)
      * [Mobs](#mobs)
      * [Mini-Bosses](#mini)
      * [Student Bosses](#stuboss)
-     * [Teacher BOsses](#teachboss)
+     * [Teacher Bosses](#teachboss)
      * [4 Horsemen of RHHS-pocalypse](#horses)
+     * [List of All Characters](#allChars)
   4. [Items](#items)
       * [Consumable Items](#consumable)
       * [Equipped Items](#equipped)
+      * [List of All Items](#allItems)
   5. [Abilities]()
   6. [Status Effects]()
   7. [Stats]()
@@ -98,21 +99,25 @@ If you befriended everyone you stomp your depression and find yourself waking up
 
 ## Characters
 
-  <a name="prot"></a>
+<a name="prot"></a>
 
 ### Protagonist
 
-  "You", a blank character. Literally a blank slate. Super customizable. Have fun surviving.
+"You", a blank character. Literally a blank slate. Super customizable. Have fun surviving.
 
 <a name="friendly"></a>
 
 ### Friendly NPCs
+
+<a name="gissing"></a>
 
 #### Mr. Gissing, the only friendly NPC
 
 * Runs a shop probably where you can buy items.
 * Very nice guy. Very nice.
   
+<a name="theo"></a>
+
 #### Theo, our lord and saviour
 
 * OP. Super OP.
@@ -122,10 +127,14 @@ If you befriended everyone you stomp your depression and find yourself waking up
 
 ### Mobs
 
+<a name="zombies"></a>
+
 #### Zombie Students (male and female)
 
 * Well not literally zombie students, just students who have no conscious mind and will destroy you like zombies
 * Low damage, easy to kill, low rewards
+
+<a name="deca"></a>
 
 #### DECA, just DECA
 
@@ -133,11 +142,15 @@ If you befriended everyone you stomp your depression and find yourself waking up
 * Higher damage and slightly harder to kill, high money reward.
 * Passive: low chance to confuse players with BS.
 
+<a name="band"></a>
+
 #### Band, just Band
 
 * Ghast thing #2
 * Same as DECA
 * Passive: low chance to deafen players bc noise
+
+<a name="sleep"></a>
 
 #### Sleep deprivation monster
 
@@ -149,6 +162,8 @@ If you befriended everyone you stomp your depression and find yourself waking up
 
 ### Mini-Bosses
 
+<a name="fon"></a>
+
 #### FON Gang
 
 * Everyone’s favorite IMF, now trying to attack you with hydrogen
@@ -156,6 +171,8 @@ If you befriended everyone you stomp your depression and find yourself waking up
 * Oxygen tries to buff or debuff
 * Nitrogen tries to tank
 * Each turn, one element gets some hydrogen buff (shield/powerful ability access)
+
+<a name="ap"></a>
 
 #### AP Exams
 
@@ -169,6 +186,8 @@ If you befriended everyone you stomp your depression and find yourself waking up
 
   They're all corrupted students so it's best not to kill them lol. What will you do for alt path (not killing them)? Each person is responsible for adding their own stuff
 
+<a name="allen"></a>
+
 #### Allen
 
 * Passive: All according to plan
@@ -178,6 +197,8 @@ If you befriended everyone you stomp your depression and find yourself waking up
   * “Tea”: Weakens Spatafora
   * Equal chance of dropping music sheets or chem coursepacks
 
+<a name="aryan"></a>
+
 #### Aryan
 
 * Passive: I’m Coming
@@ -185,6 +206,8 @@ If you befriended everyone you stomp your depression and find yourself waking up
 * Reward:
   * Vodka Jam: Weakens Kostanenko.
   * Chem coursepacks: use to up your chem stats
+
+<a name="alicia"></a>
 
 #### Alicia
 
@@ -194,6 +217,8 @@ If you befriended everyone you stomp your depression and find yourself waking up
   * literature books, good for upping your English stats
   * Poetry anthology: weakens Cimetta
 
+<a name="ivy"></a>
+
 #### Ivy
 
 * Passive: Where's my coffee?
@@ -201,6 +226,8 @@ If you befriended everyone you stomp your depression and find yourself waking up
 * Reward:
   * drops espresso, effective in weakening Hazlewood.
   * Also drops Theo’s tests, use to up your bio stats
+
+<a name="jennifer"></a>
 
 #### Jennifer
 
@@ -210,6 +237,8 @@ If you befriended everyone you stomp your depression and find yourself waking up
   * Bougie KitKats: weakens Shim
   * Textbook questions: Increases your math stats.
 
+<a name="Jerry"></a>
+
 #### Jerry
 
 * Passive: What?
@@ -217,6 +246,8 @@ If you befriended everyone you stomp your depression and find yourself waking up
 * Rewards:
   * TLAP: Weakens Leung
   * “Nothing”: Raises physics stats
+
+<a name="keving"></a>
 
 #### Kevin
 
@@ -233,11 +264,15 @@ If you befriended everyone you stomp your depression and find yourself waking up
 
   If you want to a teacher added, feel free! Only seven for now, because seven deadly sins.
 
+<a name="choi"></a>
+
 #### Pride: Choi
 
 * Passive: It wasn’t hard [smirks]
   * Mr. Choi is literally too cool for all of us plebs and our pleb attacks. Reduces all damage received by 15%.
   * Reward: Blessing of humility - Receive a 10% damage reduction for all attacks?
+
+<a name="shim"></a>
 
 #### Gluttony: Shim
 
@@ -246,12 +281,16 @@ If you befriended everyone you stomp your depression and find yourself waking up
   * Spani*Sh im*quisition. I don't know yet
 * Reward: Blessing of temperance - The later the ability is used, the higher the damage.
 
+<a name="cimetta"></a>
+
 #### Greed: Cimetta
 
 * Passive: Can you be more specific?
   * **Be specific**. Mr Cimetta I’m only in high school. **Be specific**. Mr Cimetta I only have 300 words. **Be specific**. Mr Cimetta it’s only an in class essay. **Be specific**. Steals 10% HP from each team member and 1PP on a random move each turn.
 * Reward:
   * Blessing of of generosity - all characters in the party get huge stat increase (idk how huge), especially in English.
+
+<a name="leung"></a>
 
 #### Wrath: Leung
 
@@ -261,6 +300,8 @@ At the expense of a 10% HP reduction each turn, her attacks deal double damage
 * Reward:
   * Blessing of peace - All future moves have 25% more PP.
 
+<a name="hazlewood"></a>
+
 #### Sloth: Hazlewood
 
 * Passive: Dead inside
@@ -269,6 +310,8 @@ When he “sleeps”, he is immune to all received damage while doing no damage.
 
 * Reward:
   * Blessing of diligence - when a party member first dies, they revive with 20% HP.
+
+<a name="mrsk"></a>
 
 #### Envy: Kostanenko
 
@@ -290,6 +333,12 @@ Gains power for each party member without an instrument/music item
 * Rewards:
   * We should add one.
 
+<a name="spat"></a>
+
+#### Spatafora (Optional Boss)
+
+  Come up with stuff
+
 #### Mangat (Optional Boss)
 
   Compe up with stuff
@@ -297,6 +346,8 @@ Gains power for each party member without an instrument/music item
 <a name="horses"></a>
 
 ### 4 Horsemen of RHHS-pocalypse
+
+<a name="joon"></a>
 
 #### War: Joon
 
@@ -308,6 +359,8 @@ Gains power for each party member without an instrument/music item
 * Reward:
   * Piece of relic
 
+<a name="sarah"></a>
+
 #### Famine: Sarah
 
 * Passive: Kirby 2.0
@@ -318,6 +371,8 @@ Gains power for each party member without an instrument/music item
 * Reward:
   * Piece of relic
 
+<a name="bryan"></a>
+
 #### Pestilence: Bryan
 
 * Passive: Patient Zero
@@ -326,6 +381,8 @@ Gains power for each party member without an instrument/music item
 
 * Reward:
   * Piece of relic
+
+<a name="sophia"></a>
 
 #### Death: Sophia
 
@@ -337,6 +394,8 @@ Summons zombie students to fight for her every 5 turns.
 
 * Reward:
   * Piece of relic
+
+<a name="depression"></a>
 
 #### Conquest: Depression TM
 
@@ -350,13 +409,42 @@ Summons zombie students to fight for her every 5 turns.
 * Reward:
   * escape school / purgatory
 
-<a name="all"></a>
+<a name="allChars"></a>
 
 ### All Characters
 
   Here is a list of all characters in the game sorted in alphabetical order. Click on the links to navigate to them.
-* [Allen]()
-* [Aryan]()
+
+* [Allen](#allen)
+* [AP exams](#ap)
+* [Aryan](#aryan)
+* [Alicia](#alicia)
+* [Band](#band)
+* [Bryan](#bryan)
+* [Cimetta](#cimetta)
+* [Choi](#choi)
+* [Deca](#deca)
+* [Depression](#depression)
+* [FON Gange](#fon)
+* [Gissing](#gissing)
+* [Hazlewood](#hazlewood)
+* [Ivy](#ivy)
+* [Jennifer](#jennifer)
+* [Jerry](#jerry)
+* [Joon](#joon)
+* [Keving](#kevin)
+* [Kostanenko](#mrsk)
+* [Leung](#leung)
+* [Mangat](#mangat)
+* [Protagonist](#prot)
+* [Sarah](#sarah)
+* [Shim](#shim)
+* [Siu](#siu)
+* [Sleep Deprivation](#sleep)
+* [Sophia](#sophia)
+* [Spatafora](#spat)
+* [Theo](#theo)
+* [Zombies](#zombies)
 
 <a name="items"></a>
 
@@ -471,5 +559,9 @@ Increases physics attacks by 10%
 #### Theo’s pendant
 
 If chosen to spare an opponent, purifies them and adds them to your team.
+
+<a name="allItmes"></a>
+
+### All Itmes
 
 ## Abilities
