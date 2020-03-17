@@ -1,4 +1,5 @@
 # RHHS Survival Game
+
 This is the GitHub repo for RHHS Survival Game. The game is being developed by RHHS Students (Duh).  
   
   The game is being developed using Unity and C#.
@@ -8,3 +9,4 @@ This is the GitHub repo for RHHS Survival Game. The game is being developed by R
   [General Design Documentation](GeneralDoc.md)
   
   [Technical Coding Documentation](TechnicalDoc.md)
+  
