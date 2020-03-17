@@ -861,7 +861,7 @@ dOn'T fOrGeT tO pUt YoUr inDiCAtOr!
 Oh dear I have acid everywhere! Ivy’s coursepack has a burning hole!
 
 * Damage: 120
-* PP: 10 
+* PP: 10
 * Ineffective when used against Spatafora. When used by Spatafora, damage increases by 10%.
 
 #### Spill Salt
@@ -912,3 +912,16 @@ It’s supposed to give you free marks, but all it does is give me anxiety.
 ### Biology Abilities
 
 #### 40 Phylums
+
+40 Phylums: So you have the Cercozoa, and the Ciliophora, and the Zoomastigina, and the Sporozoa, and the Myxomycota, and the Acrasiomycota, and 34 other phylums to remember for the test!
+
+* Damage: 120
+* PP: 10
+* Deals half the normal damage to [Hazlewood](#hazlewood).
+
+#### Dissections
+
+Don’t accidentally cut up the inferior vena cava because you thought it was lymphatic tissue!
+
+* Damage: 90
+* PP: 15
