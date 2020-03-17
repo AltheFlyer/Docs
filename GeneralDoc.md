@@ -18,7 +18,7 @@ This is the design documentation for the game. If you have general things to add
   4. [Items](#items)
       * [Consumable Items](#consumable)
       * [Equipped Items](#equipped)
-      * [List of All Items](#allItems)
+      * [List of All Items](#allItmes)
   5. [Abilities](#abilities)
   6. [Status Effects]()
   7. [Stats]()
