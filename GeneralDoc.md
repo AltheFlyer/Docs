@@ -19,7 +19,7 @@ This is the design documentation for the game. If you have general things to add
       * [Consumable Items](#consumable)
       * [Equipped Items](#equipped)
       * [List of All Items](#allItems)
-  5. [Abilities]()
+  5. [Abilities](#abilities)
   6. [Status Effects]()
   7. [Stats]()
   8. [Combat]()
@@ -57,7 +57,7 @@ If you befriended everyone you stomp your depression and find yourself waking up
   * Encounter [Gissing](#gissing)
   * Familiarize game mechanics
   * Mobs
-  * Mini-boss: AP exams
+  * Mini-boss: [AP exams](#ap)
 * Layer 2: Pride (Math Classroom)
   * Find [Choi](#choi)
   * Mobs
@@ -73,7 +73,7 @@ If you befriended everyone you stomp your depression and find yourself waking up
 * Layer 5: Sloth (Bio room)
   * Find [Hazlewood](#hazlewood)
   * Mobs
-  * Student Boss Ivy
+  * Student Boss [Ivy](#ivy)
 * Layer 6: Greed (English classroom)
   * Find [Cimetta](#cimetta)
   * Mobs
@@ -121,7 +121,7 @@ If you befriended everyone you stomp your depression and find yourself waking up
 #### Theo, our lord and saviour
 
 * OP. Super OP.
-* Gives you the pendant and you'll never see him again :)
+* Gives you the [pendant](#pendant) and you'll never see him again :)
 
 <a names="mobs"></a>
 
@@ -194,8 +194,8 @@ If you befriended everyone you stomp your depression and find yourself waking up
   * Swaps a random music/chem ability for each turn (I dunno what theme to go with) 
   * Has a stupid pun the first time an ability is used
 * Reward:
-  * “Tea”: Weakens Spatafora
-  * Equal chance of dropping music sheets or chem coursepacks
+  * [Tea](#tea): Weakens Spatafora
+  * Equal chance of dropping [music sheets](#musicSheet) or [chem coursepacks](#coursepack)
 
 <a name="aryan"></a>
 
@@ -204,8 +204,8 @@ If you befriended everyone you stomp your depression and find yourself waking up
 * Passive: I’m Coming
   * Legends have it last time Aryan made a good joke earth was still round. Aryan makes a stupid joke each turn which makes the oponent deaf for 1 turn.
 * Reward:
-  * Vodka Jam: Weakens Kostanenko.
-  * Chem coursepacks: use to up your chem stats
+  * [Vodka Jam](#vodka): Weakens Kostanenko.
+  * [Chem coursepacks](#coursepack): use to up your chem stats
 
 <a name="alicia"></a>
 
@@ -215,7 +215,7 @@ If you befriended everyone you stomp your depression and find yourself waking up
   * Gives her huge protection against English based attacks and increases her english-based attacks greatly.
 * Reward:
   * literature books, good for upping your English stats
-  * Poetry anthology: weakens Cimetta
+  * [Poetry anthology](#poetry): weakens Cimetta
 
 <a name="ivy"></a>
 
@@ -224,8 +224,8 @@ If you befriended everyone you stomp your depression and find yourself waking up
 * Passive: Where's my coffee?
   * Because she has an addiction to caffeine (that she wouldn’t admit), she has double the PP limit.
 * Reward:
-  * drops espresso, effective in weakening Hazlewood.
-  * Also drops Theo’s tests, use to up your bio stats
+  * drops [espresso](#espresso), effective in weakening Hazlewood.
+  * Also drops [Theo’s tests](#pastTest), use to up your bio stats
 
 <a name="jennifer"></a>
 
@@ -234,8 +234,8 @@ If you befriended everyone you stomp your depression and find yourself waking up
 * Passive: I'm not mad
   * Believe me, you do not want to see Jennifer mad. Has a 50% chance to go angry and double her attack for 2 turns.
 * Reward:
-  * Bougie KitKats: weakens Shim
-  * Textbook questions: Increases your math stats.
+  * [Bougie KitKats](#kitkat): weakens Shim
+  * [Textbook questions](#textbook): Increases your math stats.
 
 <a name="Jerry"></a>
 
@@ -244,7 +244,7 @@ If you befriended everyone you stomp your depression and find yourself waking up
 * Passive: What?
   * When have you seen Jerry give a shit about anything? That’s right. Never. Immune to all status effects (4 horsemen and final boss are exceptions)
 * Rewards:
-  * TLAP: Weakens Leung
+  * [TLAP](#tlap): Weakens Leung
   * “Nothing”: Raises physics stats
 
 <a name="keving"></a>
@@ -254,9 +254,9 @@ If you befriended everyone you stomp your depression and find yourself waking up
 * Passive: Procrastinate
   * Getting work done before the due date? That’s not going to happen. When Kevin’s health is below 20%, he gets one extra action each turn
 * Reward:
-  * Red pocket: Weakens Choi
-  * unused schedule: equip that allows the user to do more damage the lower on health they are
-  * VBC secrets, boosts effectiveness against DECA enemies
+  * [Red pocket](#homework): Weakens Choi
+  * [unused schedule](#unused): equip that allows the user to do more damage the lower on health they are
+  * [VBC secrets](#vbc): boosts effectiveness against DECA enemies
 
 <a name="teachboss"></a>
 
@@ -454,21 +454,31 @@ Summons zombie students to fight for her every 5 turns.
 
 ### Consumable items
 
+<a name="cofee"></a>
+
 #### Coffee
 
 Restores PP
+
+<a name="rice"></a>
 
 #### Rice
 
 Restores HP
 
+<a name="bubbleTea"></a>
+
 #### Bubble Tea
 
 Rids all status effects on a character. Inefective against the 4 horsemen and final boss.
 
+<a name="bulkBarn"></a>
+
 #### Bulk Barn Candy
 
 Increases chance of purifying opponents without fighting. Ineffective against final boss.
+
+<a name="homework"></a>
 
 #### Homework
 
@@ -476,53 +486,79 @@ Increases chance of depressing student bosses.
 Ineffective against Jerry.  
 Red pocket: Weakens Mr. Choi.
 
+<a name="poetry"></a>
+
 #### Poetry anthology
 
 Weakens Mr. Cimetta.
+
+<a name="kitkat"></a>
 
 #### Bougie KitKat
 
 Weakens Mr. Shim.
 
+<a name="tlap"></a>
+
 #### TLAP
 
 Weakens Mrs. Leung.
+
+<a name="espresso"></a>
 
 #### Espresso
 
 Weakens Mr. Hazlewood.
 
+<a name="vodka"></a>
+
 #### Vodka Jam
 
 Weakens Mrs. Kostanenko.
+
+<a name="tea"></a>
 
 #### Tea
 
 Weakens Mrs. Spatafora.
 
+<a name="salt"></a>
+
 #### Unlabeled Salt
 
 *Random* effect(s). No negative effects if Sarah consumes.
+
+<a name="textbook"></a>
 
 #### Textbook questions
 
 randomly increases math stats
 
+<a name="worksheet"></a>
+
 #### Worksheets
 
 randomly increases physics stats
+
+<a name="pastTest"></a>
 
 #### Theo’s past tests
 
 randomly increases bio stats
 
+<a name="coursepack"></a>
+
 #### Coursepacks
 
 randomly increases chem stats
 
+<a name="musicSheet"></a>
+
 #### Music sheets
 
 randomly increases music stats
+
+<a name="vbc"></a>
 
 #### VBC secrets
 
@@ -532,29 +568,43 @@ increases damage dealt to DECA enemies.
 
 ### Equipped items
 
+<a name="unused"></a>
+
 #### Unused schedule
 
 Gives players 1 extra action each turn if their HP is below 10% of their normal level.
+
+<a name="whiteboard"></a>
 
 #### Whiteboard
 
 Increases damage by 5% against enemies. Increases damage by 20% when facing Sarah.
 
+<a name="musical"></a>
+
 #### Musical Instrument
 
 Increases music attacks by 10%
+
+<a name="coat"></a>
 
 #### Lab coat
 
 Increases chem and bio attacks by 10%
 
+<a name="calculator"></a>
+
 #### Plain old calculator
 
 Increases math attacks by 10%
 
+<a name="stick"></a>
+
 #### Meter stick
 
 Increases physics attacks by 10%
+
+<a name="pendant"></a>
 
 #### Theo’s pendant
 
@@ -563,5 +613,35 @@ If chosen to spare an opponent, purifies them and adds them to your team.
 <a name="allItmes"></a>
 
 ### All Itmes
+
+Here is a list of all items in the game sorted in alphabetical order. Click on the links to navigate to them.
+
+* [Bougie KitKat](#kitkat)
+* [Bubble Tea](#bubbleTea)
+* [Bulk Barn Candy](#bulkBarn)
+* [Coffee](#coffee)
+* [Coursepacks](#coursepack)
+* [Espresso](#espresso)
+* [Homework](#homework)
+* [Lab Coat](#coat)
+* [Meter Stick](#stick)
+* [Music Sheets](#musicSheet)
+* [Musical Instrument](#musical)
+* [Plain old calculator](#calculator)
+* [Poetry anthology](#poetry)
+* [Rice](#rice)
+* [Tea](#tea)
+* [Textbook questions](#textbook)
+* [Theo’s past tests](#pastTest)
+* [Theo’s pendant](#pendant)
+* [TLAP](#tlap)
+* [Unlabeled Salt](#salt)
+* [Unused schedule](#unused)
+* [VBC secrets](#vbc)
+* [Vodka Jam](#vodka)
+* [Whiteboard](#whiteboard)
+* [Worksheets](#worksheet)
+
+<a name="abilities"></a>
 
 ## Abilities
