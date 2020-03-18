@@ -27,11 +27,14 @@ This is the design documentation for the game. If you have general things to add
       * [Biology](#bio)
       * [Music](#music)
       * [Teacher Only](#teachOnly)
-  6. [Status Effects]()
-  7. [Stats]()
-  8. [Combat]()
-  9. [Progression]()
-  10. [How to edit this file]()
+  6. [Status Effects](#stateffect)
+  7. [Stats](#stats)
+      * [Base Stats](#basestats)
+      * [Specefic Stats](#speceficstats)
+  8. [Combat](#combat)
+  9. [Progression](#progression)
+  10. [Musics and Songs]()
+  11. [How to edit this file]()
 
 <a name="plot"></a>
 
@@ -1040,3 +1043,200 @@ Almost got cancelled!
 * Damage: 150
 * PP: 10
 
+#### Coffee House
+
+Otherwise known as musical talent show or memefest, either one.
+
+* Healing: some percentage
+* PP: 5
+* Cleanses the ally of a debuff
+
+#### Sounds of Spring
+
+The last concert to end off a year of hard work. It’s showtime!
+
+* Damage: 250
+* PP: 1
+* Musical abilities cannot be used anymore
+
+#### Adjudication
+
+Listen to experts who give you solid musical advice! Or “Lyrical, Resonance, Take the tuba out for sushi”
+
+* Increase or decrease music ability damage by 35%
+
+#### Triangle
+
+The mightiest percussion instrument, only the most skilled musicians wield it. 
+
+* Damage: 120
+* PP: 8
+* Only usable if your musical stat is high enough
+
+#### Piccolo
+
+“I’m going deaf” -the second row of flutes
+
+* Damage: 150
+* PP: 5
+* Deals a small amount of damage to allies as well
+
+#### Amalgamation
+
+How does the oboe mouthpiece fit on a french horn? WHY IS THERE A SAX MOUTHPIECE ON THE TROMBONE?
+
+* Damage: 30-180 (random value)
+* PP: 5
+* Chance to inflict confusion on the target
+
+#### Email Siu
+
+If you are ever away from band, this is a must.
+
+* Take 15% less damage from musical attacks, cannot be used too often
+
+#### Drop Instrument
+
+oh no. hope no one saw or you’re DEAD.
+
+* Damage: 150
+* PP: 5
+* 50% chance to debuff your musical attacks by a percentage
+* If used against music students or Siu, they get enraged
+
+<a name="teachOnly"></a>
+
+### Teacher
+
+#### Rip Knowledge
+
+Guess I don’t know anything, haha!
+
+* Damage: 90
+* PP: 15
+* Used by [Hazlewood](#hazlewood), [Cimetta](#cimetta), [Kostanenko](#mrsk) and [Spatafora](#spat)
+
+#### Rip Thinking
+
+Dude my mark would be 5% higher if it wasn’t for thinking.
+
+* Damage: 120
+* PP: 10
+* Only used by [Choi](#choi)
+
+#### Rip Communication
+
+Normally, communication is seen as the butt of the joke by most AP kids. That’s probably because they didn’t take AP Bio or Chem.
+
+* Damage: 90
+* PP: 15
+* Only used by [Hazlewood](#hazlewood) and [Spatafora](#spat)
+
+#### Rip Application
+
+Press F. Just press F.
+
+* Damage: 120
+* PP: 10
+* Used by all teachers except for [Leung](#leung) and [Shim](#shim)
+
+#### Final Exam
+
+May be easy, may be hard, definitely gives you unlimited anxiety.
+
+* Damage: 180
+* PP: 1
+
+<a name="stateffect"></a>
+
+## Status Effects
+
+* Angry: Attacks own team mates for 1 turn. Joon-specific status effect
+* Hungry: Loses 10% of HP per turn until death. Sarah-specific status effect
+* Sick: Loses 1 PP on all moves until none left. Bryan-specific status effect
+* On a countdown: You will have 50 turns until you die. Sophia-specific status effect
+* Depressed: Your damage dealt decreases and chances of becoming confused increase.
+* Confused: You do not know what to do. Cannot do anything for one turn.
+* Deaf: You cannot move because you cannot hear. Cannot do any action for one turn, but you can still use items for some reason.
+
+<a name="stats"></a>
+
+## Stats
+
+<a name="basestats"></a>
+
+### Base Stats
+
+* HP: Health
+* PP: Number of turns you can use the ability
+* Intelligence: Attack
+* Wisdom: Defense
+* Speed: Chance of you to attack first
+* Luck: chance of missing enemy attacks and dealing critical damage
+
+<a name="speceficstats"></a>
+
+### Specific Stats
+
+* English: NA
+* Math: NA
+* Physics: NA
+* Chem: NA
+* Bio: NA
+* Music: NA
+
+<a name="combat"></a>
+
+## Combat
+
+You control a party of up to 4 students. For every enemy that you encounter you have the option to either: attack, purify, use itmes, or flee.
+
+### Attack
+
+Option of either normal attack or use skills
+
+  * Skills: attacks based on (base attack+subject attack) * equip multiplier * consumable multiplier * (base + subject) skills buff multiplier * debuff multiplier * critical hit index. Critical hit index: RNG from 1.0-2.0
+  * Normal Attacks: Based on everything above minus subject aspects
+
+### Purify
+
+Attempt to use pendant to skip to shadow phase of boss fights
+
+* Start with a 50% chance of success, goes up by 5% each turn. Probably display it on screen to encourage
+* Only usable against student and teacher bosses
+
+### Use Items
+
+Like how you would use items for any standard RPG
+
+### Flee
+
+RUN FOR YOUR LIFE (may limit number of uses)
+
+Only attack options are circulated throughout the team. If one character chooses to purify or flee, the entire team does so. Abilities may use energy or have a limited number of charges/PP per battle
+
+* Energy/PP either does not regenerate/regenerate at a low rate during battle
+* Energy/PP is set to full at beginning of battle
+
+<a name="progression"></a>
+
+## Progression
+
+It’s roguelite for the first layers, but progress against the true final boss is constant (think normal rpg progression). Rouglite progression:
+
+* You start with one student and a set of abilities
+* You travel through RHHS to different encounters (either by map you can walk around in or by just point and clicking to specific encounters). Each pod acts as a mini-dungeon?
+* Fighting normal enemies gives you random abilities or items
+* (Possible less powerful student fights for recruitment)
+* (Students may possibly appear randomly for recruitment)
+* Eventually, you reach:
+  * Teacher boss: defeat for a passive item
+  * Greater Student boss: defeat for progress, unrecruitable if killed. You can also trigger more difficult Shadow fight, which lets you recruit them instead of killing them
+
+* ‘Final’ horseman
+
+Normal progression:
+
+* Maybe the items you unlock are based on roguelite or story progress?
+* Whatever you’ve unlocked in roguelite, you get in the final story (maybe throw in story exclusives)
+* You eventually fight the great depresso with whatever team or items or abilities you want
