@@ -105,6 +105,8 @@ If you befriended everyone you stomp your depression and find yourself waking up
 
 "You", a blank character. Literally a blank slate. Super customizable. Have fun surviving.
 
+![WIP prot sprite](images/Prot1.png)
+
 <a name="friendly"></a>
 
 ### Friendly NPCs
