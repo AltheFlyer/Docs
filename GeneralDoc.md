@@ -26,6 +26,7 @@ This is the design documentation for the game. If you have general things to add
       * [Chemistry](#chem)
       * [Biology](#bio)
       * [Music](#music)
+      * [Comp Sci](#compsci)
       * [Teacher Only](#teachOnly)
   6. [Status Effects](#stateffect)
   7. [Stats](#stats)
@@ -1104,9 +1105,20 @@ oh no. hope no one saw or you’re DEAD.
 * 50% chance to debuff your musical attacks by a percentage
 * If used against music students or Siu, they get enraged
 
+<a name="compsci"></a>
+
+### Comp Sci
+
+Recast small abilities, jank. Resource called Jank which increases, will be detrimental to the team. You can use janky abilities which are strong but too much isn’t good
+
+* Increment
+  * Small health gain
+* Decrement
+  * Small damage
+
 <a name="teachOnly"></a>
 
-### Teacher
+### Teacher Only
 
 #### Rip Knowledge
 
