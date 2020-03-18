@@ -20,6 +20,13 @@ This is the design documentation for the game. If you have general things to add
       * [Equipped Items](#equipped)
       * [List of All Items](#allItmes)
   5. [Abilities](#abilities)
+      * [English](#eng)
+      * [Math](#math)
+      * [Physics](#phys)
+      * [Chemistry](#chem)
+      * [Biology](#bio)
+      * [Music](#music)
+      * [Teacher Only](#teachOnly)
   6. [Status Effects]()
   7. [Stats]()
   8. [Combat]()
@@ -367,6 +374,8 @@ Gains power for each party member without an instrument/music item
 
 #### Famine: Sarah
 
+<img src="images/Famine.png" width=350></img>
+
 * Passive: Kirby 2.0
   * Anything and everything is edible In Sarah’s eyes. She has eaten old spinach leaves, glass, potassium chloride and even fucking mercury. She is still healthy for some reason.
 30% chance for attacks to be absorbed, healing her HP.
@@ -379,6 +388,8 @@ Gains power for each party member without an instrument/music item
 
 #### Pestilence: Bryan
 
+<img src="images/Pestilence.png" width=350></img>
+
 * Passive: Patient Zero
   * Does anyone remember how many times Sophia was sick after Bryan was sick? Three? Four? Makes party members sick, reducing PP by 1 each turn. (For fun: anyone with sickness spreads it to whoever they target with abilities, if everyone in combat has sickness, do X bad thing)
   * Attacks reduce 20% in damage
@@ -389,6 +400,8 @@ Gains power for each party member without an instrument/music item
 <a name="sophia"></a>
 
 #### Death: Sophia
+
+<img src="images/Death.png" width=350></img>
 
 * Passive: Thriller Night
   * Sophia is so nice and chill everyone likes her. So it’s ok if she brings them back from the dead to fight for her, riiiiight?
@@ -650,6 +663,8 @@ Here is a list of all items in the game sorted in alphabetical order. Click on t
 
 ## Abilities
 
+<a name="english"></a>
+
 ### English Abilities
 
 #### Dramatization
@@ -702,6 +717,8 @@ The bane of my English mark. Or frankly most people’s English marks.
 * Damage: 180
 * PP: 1
 * 30% chance to hurt yourself, reducing 10% of your HP unless your English stat is high.
+
+<a name="math"></a>
 
 ### Math Abilities
 
@@ -787,6 +804,8 @@ Look my young Padawans, you should worry about the learning and let the marks ta
 * PP: 10
 * Only usable by [Shim](#shim)
 
+<a name="phys"></a>
+
 ### Physics Abilities
 
 #### Charge/Electric Shock
@@ -841,6 +860,8 @@ The worst two nightmares of an AP physics student combined together. Does it act
 * Damage: 150
 * PP: 5
 * Cannot use unless physics stats are high
+
+<a name="chem"></a>
 
 ### Chemistry Abilities
 
@@ -911,6 +932,8 @@ It’s supposed to give you free marks, but all it does is give me anxiety.
 * PP: 8
 * Only usable by [Spatafora](#spat) or [Kostanenko](#mrsk)
 
+<a name="bio"></a>
+
 ### Biology Abilities
 
 #### 40 Phylums
@@ -927,3 +950,93 @@ Don’t accidentally cut up the inferior vena cava because you thought it was ly
 
 * Damage: 90
 * PP: 15
+
+#### Read the Textbook
+
+Half of it is skipped anyways but it’s still helpful! Maybe?
+
+* Increases damage of biology moves by 15%
+
+#### Theo’s tests
+
+Innovative way of studying: look at Theo’s tests!
+
+* Reduces received biology damage by 10%
+
+#### Micropipetting
+
+on’t reuse the tips, don’t puncture the wells, don’t shake it around, and *do not break it. Ever*.
+
+* Damage: 40
+* PP: 20
+
+#### Jurassic Park
+
+One of Hazlewood’s favorite movies. Just hope he doesn’t put anything related to it on the test.
+
+* Damage: 60
+* PP: 15
+* Heal self for the same amount of damage dealt (60).
+
+#### Homeostasis Project
+
+Thank the heavens! My bio mark is finally saved! What do you mean, I have to work for this?
+
+* Damage: 150
+* PP: 5
+
+#### Multiple Choice
+
+What do you mean, choose the correct answer? All of these seem right!
+
+* Damage: 150
+* PP: 10 (that’s right, Hazlewood fucks with you that much)
+* Only usable by [Hazlewood](#hazlewood)
+
+#### Short Answer
+
+So I got one mark off of each question and my application mark is a 69. Nice.
+
+* Damage: 100
+* PP: 15
+* Only usable by [Hazlewood](#hazlewood)
+
+<a name="music"></a>
+
+### Music abilities
+
+#### Scapegoat flutes
+
+There are 27 of you. PLAY QUIETER
+
+* Damage: 60
+* PP: 15
+* If used against a flute player, they get an attack debuff
+
+#### Oboe = Clarinet
+
+You do not want to call the Oboe a Clarinet, trust me
+
+* Damage: 90
+* PP: 10
+* If used against an oboe player, they get enraged.
+
+#### French Horn Benefits
+
+“My favorite instrument is the french horn” -all music teachers
+
+* Heals all allies by a certain amount
+
+#### Horns/Bells up
+
+“I can’t hear you!” But seriously, when can’t you hear a trumpet?
+
+* The next damaging musical ability deals double damage
+
+#### Holiday Serenade
+
+Almost got cancelled!
+
+* Damage: 150
+* PP: 10
+
