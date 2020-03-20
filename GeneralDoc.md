@@ -366,6 +366,8 @@ Gains power for each party member without an instrument/music item
 
 #### War: Joon
 
+<img src="images/War.png" width=350></img>
+
 * Passive: Man of War
   * He’s so violent. So chaotic. Breaks everything. Rulers, curves, Sarah’s head. And we’re pretty sure it’s all by accident.
     50% chance to enrage players and cause them to hurt each other for one turn
